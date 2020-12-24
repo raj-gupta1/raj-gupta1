@@ -1,10 +1,5 @@
 ✨ Hello! there friends, I'm RAJ Gupta ✨ 👋 
 
-
-**raj-gupta1/raj-gupta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a sophomore at Indian Institute of Information Technology persuing B.Tech in CSE.
 - 🌱 I’m currently learning Data Science , ML , Python3 , Neural Networks and Deep Learning , problem solving on DSA. 
 - 👯 I’m looking to collaborate on ML and Data Science projects and learn something new and contribute to community.
