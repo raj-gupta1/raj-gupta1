@@ -1,7 +1,7 @@
  <h1> About Me</h1>
  <p title=About Me>
 -✨ Hello! there friends, I'm RAJ Gupta ✨ 👋 
-<img align="right" width="200" height="200" src="https://media.giphy.com/media/izpzl6hlH0cQjGTqfp/giphy.gif">     
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif">     
  <ul>
 <li>🔭 I’m currently a sophomore at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
 <li> 📫 How to reach me:<a href="rajmanmauji@gmail.com"> Mail me for help. </a></li>
@@ -21,7 +21,7 @@
  <br>
    <h1> I can help you with...</h1>
   <p title=I can help you with...>
- <img align="left" width="400" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
+ <img align="left" width="500" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
  <ul>
  <li>  💬 Data Science Projects.</li>
   <li>  💬 Machine Learning</li>
@@ -34,7 +34,7 @@
   <h1> What i love...</h1>
   <p title=What i love?>
   <ul>
- <img align="right" width="300" height="300" src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif" >
+ <img align="right" width="400" height="200" src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif" >
   <li> I love watching anime. </li>
   <li>  Any Attack On Titans fan here.</li>
 </ul>
