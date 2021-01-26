@@ -35,6 +35,7 @@
   <p title=What i love?>
   <ul>
  <img align="right" width="400" height="200" src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif" >
+  <img align="left" width="200" height="200" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" >
   <li> I love watching anime. </li>
   <li>  Any Attack On Titans fan here.</li>
 </ul>
