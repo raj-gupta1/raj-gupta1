@@ -40,7 +40,10 @@
   <li>  Any Attack On Titans fan here.</li>
 </ul>
 </p>
-![](https://komarev.com/ghpvc/?username=raj-gupta1 & color=dc143c & style=plastic)
+<br>  
+<br>  
+<br>  
+<br>  
+![Visitor Count](https://profile-counter.glitch.me/{RAJ GUPTA}/count.svg)
  
-
 
