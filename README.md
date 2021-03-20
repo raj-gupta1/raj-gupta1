@@ -41,9 +41,3 @@
 </ul>
 </p>
 <br>  
-<br>  
-<br>  
-<br>  
-![Visitor Count](https://profile-counter.glitch.me/{RAJ GUPTA}/count.svg)
- 
-
