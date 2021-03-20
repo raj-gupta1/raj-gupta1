@@ -38,6 +38,10 @@
   <img align="left" width="400" height="200" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif" >
   <li> I love watching anime. </li>
   <li>  Any Attack On Titans fan here.</li>
+
 </ul>
 </p>
+<br>  <br>  
 <br>  
+<br>  
+
