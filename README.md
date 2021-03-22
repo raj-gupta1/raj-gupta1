@@ -25,7 +25,7 @@
  <ul>
  <li>  💬 Data Science Projects.</li>
   <li>  💬 Machine Learning</li>
-  <li>  💬 Neural Networks</li>
+  <li>  💬 Computer Vision</li>
   <li>  💬 Deep Learning</li>
  <li> 💬 Front-end web development.</li>
   </ul>
