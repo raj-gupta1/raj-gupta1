@@ -12,9 +12,9 @@
  <h1> Currently i am working on...</h1>
         <p title= What i love?>
  <ul>
-<li>  🌱 I’m currently learning Data Science , ML , Python3 , Neural Networks and Deep Learning , problem solving on DSA. </li> 
-<li> 👯 I’m looking to collaborate on ML and Data Science projects and learn something new and contribute to community. </li> 
-<li>  🤔 I’m looking for help with understanding Data Science and  ML projects.</li>  
+<li>  🌱 I’m currently learning Tableau, Data Science, ML, Python3, Data Analytics, Computer Vision. </li> 
+<li> 👯 I’m looking to collaborate on Data Science projects.</li> 
+<li>  🤔 I’m looking for help in ML projects.</li>  
  </ul>
  </p>
  
@@ -26,7 +26,7 @@
  <li>  💬 Data Science Projects.</li>
   <li>  💬 Machine Learning</li>
   <li>  💬 Computer Vision</li>
-  <li>  💬 Deep Learning</li>
+  <li>  💬Data Analytics</li>
  <li> 💬 Front-end web development.</li>
   </ul>
 </p>
