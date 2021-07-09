@@ -25,19 +25,18 @@
  <ul>
  <li>  💬 Data Science Projects.</li>
   <li>  💬 Machine Learning</li>
-  <li>  💬 Computer Vision</li>
+  <li>  💬 NLP </li>
   <li>  💬Data Analytics</li>
- <li> 💬 Front-end web development.</li>
+ <li> 💬 Deep Learning.</li>
   </ul>
 </p>
 <br>  <br>  
-  <h1> What i love...</h1>
-  <p title=What i love?>
+  <h1> What I love...</h1>
+  <p title=What I love ? >
   <ul>
  <img align="right" width="400" height="200" src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif" >
-  <img align="left" width="400" height="200" src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif" >
+ 
   <li> I love watching anime. </li>
-  <li>  Any Attack On Titans fan here.</li>
 
 </ul>
 </p>
