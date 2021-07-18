@@ -12,9 +12,8 @@
  <h1> Currently i am working on...</h1>
         <p title= What i love?>
  <ul>
-<li>  🌱 I’m currently learning Tableau, Data Science, ML, Python3, Data Analytics, Computer Vision. </li> 
+<li>  🌱 I’m currently learning Deep Learning, NLP, PowerBI, Tableau, Data Science, ML, Python3, Data Analytics, Computer Vision. </li> 
 <li> 👯 I’m looking to collaborate on Data Science projects.</li> 
-<li>  🤔 I’m looking for help in ML projects.</li>  
  </ul>
  </p>
  
@@ -34,10 +33,11 @@
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
- <img align="right" width="400" height="200" src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif" >
+ <img align="left" width="600" height="300" src="https://s6.gifyu.com/images/inbox-5658374-3ee474d595411f1a8f19b8925078b913-Selman_20161230_Q-A_Cat-Dog-Flow02.gif" >
  
   <li> I love watching anime. </li>
-
+<li> Doing Computer Vision projects. </li>
+  
 </ul>
 </p>
 <br>  <br>  
