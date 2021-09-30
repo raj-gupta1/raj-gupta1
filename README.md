@@ -4,7 +4,7 @@
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif">     
  <ul>
 <li>🔭 I’m currently a sophomore at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
-<li> 📫 How to reach me:<a href="rajmanmauji@gmail.com"> Mail me for help. </a></li>
+<li> 📫 How to reach me: Connect with me on <a href="rajmanmauji@gmail.com"> Gmail </a></li>
  <li> <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194"> My linkedin profile. </a></li>
  </ul> </p> 
  
