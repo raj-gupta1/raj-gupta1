@@ -5,7 +5,7 @@
  <ul>
 <li>🔭 I’m currently a sophomore at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
 <li> 📫 How to reach me:<a href="rajmanmauji@gmail.com"> Mail me for help. </a></li>
- <li> <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194"> My linkedin profile. </a></li>
+ <li>Connect with me on <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194">LinkedIn </a></li>
  </ul> </p> 
  
  <br>
