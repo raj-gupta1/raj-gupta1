@@ -21,7 +21,7 @@
  <br>
    <h1> I can help you with...</h1>
   <p title=I can help you with...>
- <img align="left" width="500" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
+ <img align="right" width="500" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
  <ul>
  <li>  💬 Data Science Projects.</li>
   <li>  💬 Machine Learning</li>
@@ -34,7 +34,7 @@
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
- <img align="left" width="600" height="300" src="https://s6.gifyu.com/images/inbox-5658374-3ee474d595411f1a8f19b8925078b913-Selman_20161230_Q-A_Cat-Dog-Flow02.gif" >
+ <img align="left" width="350" height="150" src="https://media.giphy.com/media/TIAR6SFcSF8wvDwddb/giphy.gif" >
  
   <li> I love watching anime. </li>
 <li> Doing Computer Vision projects. </li>
