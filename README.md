@@ -38,7 +38,8 @@
  
   <li> I love watching anime. </li>
 <li> Doing Computer Vision projects. </li>
-  
+   <img src="https://visitor-badge.glitch.me/badge?page_id=raj-gupta1">
+ 
 </ul>
 </p>
 <br>  <br>  
