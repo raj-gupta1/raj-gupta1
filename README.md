@@ -10,27 +10,32 @@
  </ul> </p> 
  
  <br>
- <h1> Currently i am working on...</h1>
+ <h1> Currently I am working on...</h1>
         <p title= What i love?>
+  <img align="left" height="150" src="https://s5.gifyu.com/images/walk.gif" >
  <ul>
-<li>  🌱 I’m currently learning Deep Learning, NLP, PowerBI, Tableau, Data Science, ML, Python3, Data Analytics, Computer Vision. </li> 
-<li> 👯 I’m looking to collaborate on Data Science projects.</li> 
+  <li>  🌱  Data Structures and Algorithms in JAVA </li> 
+<li>  🌱  Deep Learning </li> 
+<li> 👯 Data Science</li> 
+  <li> 🌱 Computer Vision</li> 
+  <li> 👯 PowerBI, Tableau , Data Analytics</li>
+  <li> 🌱 ML and DL deployable projects.</li> 
  </ul>
  </p>
- 
  <br>
    <h1> I can help you with...</h1>
   <p title=I can help you with...>
- <img align="right" width="500" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
+ <img align="right" width="500" height="290" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
  <ul>
- <li>  💬 Data Science Projects.</li>
-  <li>  💬 Machine Learning</li>
-  <li>  💬 NLP </li>
-  <li>  💬Data Analytics</li>
- <li> 💬 Deep Learning.</li>
+ <li>  💬 Data Science Projects</li>
+  <li>  💬 Deep Learning Projects</li>
+  <li>  💬Data Analytics Projects</li>
+ <li> 💬 Machine Learning Projects</li>
+   <li> 💬 Computer Vision Projects</li>
   </ul>
 </p>
 <br>  <br>  
+
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
@@ -43,6 +48,5 @@
 </ul>
 </p>
 <br>  <br>  
-<br>  
-<br>  
+
 
