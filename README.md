@@ -12,7 +12,7 @@
  <br>
  <h1> Currently I am working on...</h1>
         <p title= What i love?>
-  <img align="left" height="150" src="https://s5.gifyu.com/images/walk.gif" >
+  <img align="left" height="200" src="https://s5.gifyu.com/images/walk.gif" >
  <ul>
   <li>  🌱  Data Structures and Algorithms in JAVA </li> 
 <li>  🌱  Deep Learning </li> 
@@ -23,9 +23,9 @@
  </ul>
  </p>
  <br>
-   <h1> I can help you with...</h1>
+   <h1> I can assist you with...</h1>
   <p title=I can help you with...>
- <img align="right" width="500" height="290" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
+ <img align="right" width="450" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
  <ul>
  <li>  💬 Data Science Projects</li>
   <li>  💬 Deep Learning Projects</li>
@@ -35,7 +35,6 @@
   </ul>
 </p>
 <br>  <br>  
-
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
