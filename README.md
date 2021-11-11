@@ -1,7 +1,7 @@
  <h1> About Me</h1>
  <p title=About Me>
 -✨ Hello! there friends, I'm RAJ Gupta ✨ 👋 
-<img align="right" width="200" height="200" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif">     
+<img align="right" width="400" height="200" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif">     
  
 <ul>
 <li>🔭 I’m currently a Pre-final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
@@ -12,7 +12,7 @@
  <br>
  <h1> Currently I am working on...</h1>
         <p title= What i love?>
-  <img align="left" height="200" src="https://s5.gifyu.com/images/walk.gif" >
+  <img align="left" height="200" width="300" src="https://s5.gifyu.com/images/walk.gif" >
  <ul>
   <li>  🌱  Data Structures and Algorithms in JAVA </li> 
 <li>  🌱  Deep Learning </li> 
@@ -25,7 +25,7 @@
  <br>
    <h1> I can assist you with...</h1>
   <p title=I can help you with...>
- <img align="right" width="450" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
+ <img align="right" width="300" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
  <ul>
  <li>  💬 Data Science Projects</li>
   <li>  💬 Deep Learning Projects</li>
@@ -38,11 +38,10 @@
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
- <img align="left" width="350" height="150" src="https://media.giphy.com/media/TIAR6SFcSF8wvDwddb/giphy.gif" >
+ <img align="left" width="400" height="200" src="https://media.giphy.com/media/JVaKSg8soxqUg/giphy.gif" >
  
   <li> I love watching anime. </li>
 <li> Doing Computer Vision projects. </li>
-   <img src="https://visitor-badge.glitch.me/badge?page_id=raj-gupta1">
  
 </ul>
 </p>
