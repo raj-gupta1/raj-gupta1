@@ -12,7 +12,7 @@
  <br>
  <h1> Currently I am working on...</h1>
         <p title= What i love?>
-  <img align="left" height="200" width="300" src="https://s5.gifyu.com/images/walk.gif" >
+  <img align="left" height="200" width="300" src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" >
  <ul>
   <li>  🌱  Data Structures and Algorithms in JAVA </li> 
 <li>  🌱  Deep Learning </li> 
