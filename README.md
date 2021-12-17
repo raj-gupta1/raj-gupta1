@@ -1,7 +1,7 @@
  <h1> About Me</h1>
  <p title=About Me>
 -✨ Hello! there friends, I'm RAJ Gupta ✨ 👋 
-<img align="right" width="400" height="200" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif">     
+<img align="right" width="400" height="200" src="https://media.giphy.com/media/sGsOdL0YWYK0xSvARV/giphy.gif">     
  
 <ul>
 <li>🔭 I’m currently a Pre-final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
