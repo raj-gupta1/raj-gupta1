@@ -6,7 +6,7 @@
 <ul>
 <li>🔭 I’m currently a Pre-final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
 <li>Connect with me on <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194">LinkedIn </a></li>
-<li> 📫 How to reach me: Connect with me on <a href="rajmanmauji@gmail.com"> Gmail </a></li>
+<li> 📫 How to reach me: rajmanmauji@gmail.com </li>
  </ul> </p> 
  
  <br>
