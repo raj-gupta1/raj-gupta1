@@ -15,16 +15,16 @@
  <img align="left" width="400" height="200" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
 <!--   <img align="left" height="200" width="300" src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" > -->
  <ul>
-  <li>  🌱  Data Structures and Algorithms in JAVA </li> 
+<!--   <li>  🌱  Data Structures and Algorithms in JAVA </li>  -->
 <li>  🌱  Deep Learning </li> 
-<li> 👯 Data Science</li> 
+<!-- <li> 👯 Data Science</li>  -->
    <li> 🌱 NLP</li> 
   <li> 🌱 Computer Vision</li> 
-  <li> 👯 Tableau</li>
+<!--   <li> 👯 Tableau</li> -->
 <!--   <li> 🌱 ML and DL deployable projects.</li>  -->
  </ul>
  </p>
- <br>
+ <br> <br> <br> <br>
    <h1> I can assist you with...</h1>
   <p title=I can help you with...>
 <!--  <img align="right" width="300" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif"> -->
@@ -41,7 +41,7 @@
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
- <img align="left" width="400" height="200" src="https://media.giphy.com/media/JVaKSg8soxqUg/giphy.gif" >
+ <img align="right" width="400" height="200" src="https://media.giphy.com/media/JVaKSg8soxqUg/giphy.gif" >
  
   <li> Anime. </li>
 <li> Overthinking. </li>
