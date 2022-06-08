@@ -44,7 +44,7 @@
  <img align="right" width="400" height="200" src="https://media.giphy.com/media/JVaKSg8soxqUg/giphy.gif" >
  
   <li> Anime. </li>
-<li> Overthinking. </li>
+<li> R&D </li>
  
 </ul>
 </p>
