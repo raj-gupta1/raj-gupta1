@@ -10,6 +10,7 @@
  </ul> </p> 
  
  <br>
+ 
  <h1> Currently I am working on...</h1>
         <p title= What i love?>
  <img align="left" width="400" height="200" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
@@ -24,9 +25,12 @@
 <!--   <li> 🌱 ML and DL deployable projects.</li>  -->
  </ul>
  </p>
- <br> <br> <br> <br>
+ 
+  <br> <br> 
+ <br>
+ 
    <h1> I can assist you with...</h1>
-  <p title=I can help you with...>
+  <p title=I can assist you with...>
 <!--  <img align="right" width="300" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif"> -->
  <ul>
  <li>  💬 Data Science </li>
@@ -37,7 +41,9 @@
   <li> 💬 NLP </li>
   </ul>
 </p>
-<br>  <br>  
+
+
+<br> 
   <h1> What I love...</h1>
   <p title=What I love ? >
   <ul>
