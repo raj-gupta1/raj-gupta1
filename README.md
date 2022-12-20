@@ -11,28 +11,22 @@
  
  <br>
  
- <h1> Currently I am working on...</h1>
-        <p title= What i love?>
- <img align="left" width="400" height="200" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif">
-<!--   <img align="left" height="200" width="300" src="https://media.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" > -->
+ <h1> Currently I am working as</h1>
+  <p title= What i love?>
  <ul>
-<li>  🌱  Metaverse/Computer Vision Intern at Metabrixlabs. </li>  
+<li>  🌱  Metaverse/Computer Vision Intern @ Metabrixlabs </li>  
 <li>  🌱  Exploring 3D Computer Vision. </li> 
-
  </ul>
  </p>
- 
-  <br> <br> 
- <br>  <br> <br> 
- <br>
- 
+ <br> 
+
    <h1> I can assist you with...</h1>
   <p title=I can assist you with...>
 <!--  <img align="right" width="300" height="150" src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif"> -->
  <ul>
+   <li>  💬Metaverse 3D/4D Avatars</li>
  <li>  💬 Data Science </li>
   <li>  💬 Deep Learning </li>
-<!--   <li>  💬Data Analytics </li> -->
  <li> 💬 Machine Learning </li>
    <li> 💬 Computer Vision </li>
   <li> 💬 NLP </li>
@@ -41,11 +35,9 @@
 
 
 <br> 
-  <h1> What I love...</h1>
+  <h1> Currently</h1>
   <p title=What I love ? >
-  <ul>
- <img align="right" width="400" height="200" src="https://media.giphy.com/media/JVaKSg8soxqUg/giphy.gif" >
- 
+  <ul> 
   <li> Building new skills. </li>
 <li> Exploring other domains in Computer Science. </li>
  
