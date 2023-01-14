@@ -4,9 +4,10 @@
 <!-- <img align="right" width="400" height="200" src="https://media.giphy.com/media/sGsOdL0YWYK0xSvARV/giphy.gif">      -->
  
 <ul>
-<li>🔭 I’m  a Final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
-<li>Connect with me on <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194">LinkedIn </a></li>
-<li> 📫 How to reach me: rajmanmauji@gmail.com </li>
+<li>✨ I’m  a Final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
+ <li> ✨✨✨ Working as Data Scientist Intern @ Autodesk (Data Product and Insights (US team). </li>
+<li>✨ Connect with me on <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194">LinkedIn </a></li>
+<li> ✨ How to reach me: rajmanmauji@gmail.com </li>
  </ul> </p> 
  
  <br>
@@ -14,6 +15,7 @@
  <h1> Currently I am working as</h1>
   <p title= What i love?>
  <ul>
+  <li>  🌱  Data Science Intern @ Autodesk </li> 
 <li>  🌱  Metaverse/Computer Vision Intern @ Metabrixlabs </li>  
 <li>  🌱  Exploring 3D Computer Vision. </li> 
  </ul>
@@ -35,12 +37,12 @@
 
 
 <br> 
-  <h1> Currently</h1>
-  <p title=What I love ? >
+  <h1> This year focusing on</h1>
+  <p title=Currently >
   <ul> 
-  <li> Building new skills. </li>
-<li> Exploring other domains in Computer Science. </li>
- 
+  <li> Learning Flute </li>
+   <li> Exploring 3D Computer Vision/ Metaverse.  </li>
+
 </ul>
 </p>
 <br>  <br>  
