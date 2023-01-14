@@ -5,7 +5,7 @@
  
 <ul>
 <li>✨ I’m  a Final year student at Indian Institute of Information Technology persuing B.Tech in CSE. </li>
- <li> ✨✨✨ Working as Data Scientist Intern @ Autodesk (Data Product and Insights (US team). </li>
+ <li> ✨✨✨ Working as Data Scientist Intern @ Autodesk [ Data Product and Insights (US team) ]. </li>
 <li>✨ Connect with me on <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194">LinkedIn </a></li>
 <li> ✨ How to reach me: rajmanmauji@gmail.com </li>
  </ul> </p> 
