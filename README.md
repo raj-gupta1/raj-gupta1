@@ -40,7 +40,6 @@
   <h1> This year focusing on</h1>
   <p title=Currently >
   <ul> 
-  <li> Learning Flute </li>
    <li> Exploring 3D Computer Vision/ Metaverse.  </li>
 
 </ul>
