@@ -45,7 +45,7 @@
   <h1> This year focusing on</h1>
   <p title=Currently >
   <ul> 
-   <li> Exploring 3D Computer Vision/ Metaverse.  </li>
+   <li> Probabilistic ML  </li>
 
 </ul>
 </p>
