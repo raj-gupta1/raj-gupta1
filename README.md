@@ -4,7 +4,7 @@
 <!-- <img align="right" width="400" height="200" src="https://media.giphy.com/media/sGsOdL0YWYK0xSvARV/giphy.gif">      -->
  
 <ul>
- <li>✨ I have cofounded a B2B Enterprise SaaS Platform and currently incubated at IIM Bengaluru NSRCEL. (Top 20 Startups ran by Campus Founders in India)</li>
+ <li>✨ I have cofounded a B2B Enterprise SaaS Platform and currently incubated at IIM Bengaluru NSRCEL.</li>
 <li>✨ I’m  a Freelance Data Scientist & AI Engineer </li>
   <li> ✨✨✨ I have a Bachelors degree in Computer Science from Indian Institute of Information Technology. </li>
  <li> ✨✨✨ I have worked as Data Scientist @ Autodesk [ Data Product and Insights (US team) ]. </li>
