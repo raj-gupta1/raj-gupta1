@@ -6,8 +6,8 @@
 <ul>
  <li>✨ I have cofounded a B2B Enterprise SaaS Platform and currently incubated at IIM Bengaluru NSRCEL.</li>
 <li>✨ I’m  a Freelance Data Scientist & AI Engineer </li>
-  <li> ✨✨✨ I have a Bachelors degree in Computer Science from Indian Institute of Information Technology. </li>
- <li> ✨✨✨ I have worked as Data Scientist @ Autodesk [ Data Product and Insights (US team) ]. </li>
+ <li>✨ I have a Bachelors degree in Computer Science from Indian Institute of Information Technology. </li>
+ <li> ✨ I have worked as Data Scientist @ Autodesk [ Data Product and Insights (US team) ]. </li>
 <li>✨ Connect with me on <a href="https://www.linkedin.com/in/raj-gupta-8a2a95194">LinkedIn </a></li>
 <li> ✨ How to reach me: rajmanmauji@gmail.com </li>
  </ul> </p> 
@@ -46,6 +46,8 @@
   <p title=Currently >
   <ul> 
    <li> Probabilistic ML  </li>
+    <li> LLM Reasoning & Logic  </li>
+     <li> Agentic AI  </li>
 
 </ul>
 </p>
