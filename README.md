@@ -14,7 +14,7 @@
  
  <br>
  
- <h1> Currently I am working as</h1>
+ <h1> Experience</h1>
   <p title= What i love?>
  <ul>
   <li>  🌱 Cofounder & Data Scientist @ Stealth Startup </li> 
