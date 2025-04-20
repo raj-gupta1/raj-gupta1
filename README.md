@@ -1,4 +1,4 @@
-# RAJ Gupta  
+
 👋 Hello! I’m **RAJ Gupta**.  
 
 ---
