@@ -23,7 +23,7 @@ I’m a **Data Scientist & AI Engineer** with over 2 years of experience leading
 
 | Role & Organization                                          | Duration             |
 |--------------------------------------------------------------|----------------------|
-| **AI Engineer & Researcher** @ **Doktor365** (Contract)      | Present              |
+| **AI Engineer & Researcher** @ **Doktor365**       | Present              |
 | **Co-Founder & Data Scientist** @ **Klaimz**                 | Jan 2024 – Oct 2024  |
 | **Freelance Data Scientist** (Independent Consultant)         | Oct 2023 – Dec 2023  |
 | **Data Scientist Intern** @ **Autodesk Inc**                 | Jan 2023 – Jul 2023  |
