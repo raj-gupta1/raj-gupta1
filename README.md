@@ -46,7 +46,7 @@ I’m a **Data Scientist & AI Engineer** with over 2 years of experience leading
 ## 📂 Proof of Work
 
 ### Doktor365
-**AI Engineer & Researcher** (Contract)  
+**AI Engineer & Researcher**   
 - Building multi-agent AI systems for healthcare operations in the Middle East.  
 - Designing scalable AI architectures to streamline back‑office tasks and compliance workflows.
 
