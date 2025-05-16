@@ -26,7 +26,7 @@ I’m a **Data Scientist & AI Engineer** with over 2 years of experience leading
 | **AI Engineer & Researcher** @ **Doktor365**       | Present              |
 | **Co-Founder & Data Scientist** @ **Klaimz**                 | Jan 2024 -  |
 | **Freelance Data Scientist** (Independent Consultant)         | Oct 2023 – Dec 2023  |
-| **Data Scientist Intern** @ **Autodesk Inc**                 | Jan 2023 – Jul 2023  |
+| **Data Scientist ** @ **Autodesk Inc**                 | Jan 2023 – Jul 2023  |
 | **Computer Vision Intern** @ **MetabrixLabs**                | Oct 2022 – Dec 2022  |
 | **AI Research Intern** @ **IIT Kharagpur**                   | May 2022 – Jul 2022  |
 | **Course Creator** @ **CloudyML**                            | Jan 2022 – Mar 2022  |
