@@ -61,7 +61,7 @@ I’m a **Data Scientist & AI Engineer** with over 2 years of experience leading
 - Developed process‑mining analytics for an FMCG client using LLM‑driven insights and data pipelines.
 
 ### Autodesk Inc
-**Data Scientist Intern**  
+**Data Scientist**  
 - Built recommendation engines with AWS Personalize & SageMaker, improving connection suggestions by 40%.  
 - Developed time‑series forecasting to optimize workspace utilization across global offices.
 
