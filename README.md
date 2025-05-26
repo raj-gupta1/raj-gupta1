@@ -7,7 +7,7 @@
 
 - 🤖 LLM Reasoning & Logic  
 - 🧠 Agentic AI & Autonomous Systems  
-- 📊 Machine Learning
+
 
 ---
 
@@ -15,23 +15,22 @@
 
 ## 🚀 About Me
 
-I’m a **Data Scientist & AI Engineer** with over 2 years of experience leading end-to-end AI and data science projects—from architecture design to deployment. Currently, I’m building & researching AI agents for a healthcare startup in the Middle East. Passionate about translating complex algorithms into impactful products.
+I’m an **AI Researcher and Engineer** with over 2 years of experience leading end-to-end AI for startups from ideation to deployement and build projects from architecture design. Currently, I’m building & researching AI agents for a healthcare startup in the Middle East. Passionate about translating complex algorithms into impactful products.
 
 ---
 
 ## 💼 Professional Experience
 
-| Role & Organization                                          | Duration             |
-|--------------------------------------------------------------|----------------------|
-| **AI Engineer & Researcher** @ **Doktor365**       | Present              |
-| **Co-Founder & Data Scientist** @ **Klaimz**                 | Jan 2024 -  |
-| **Freelance Data Scientist** (Independent Consultant)         | Oct 2023 – Dec 2023  |
-| **Data Scientist** @ **Autodesk Inc**                 | Jan 2023 – Jul 2023  |
-| **Computer Vision Intern** @ **MetabrixLabs**                | Oct 2022 – Dec 2022  |
-| **AI Research Intern** @ **IIT Kharagpur**                   | May 2022 – Jul 2022  |
-| **Course Creator** @ **CloudyML**                            | Jan 2022 – Mar 2022  |
-
----
+| Role & Organization                                          
+|--------------------------------------------------------------
+| **AI Engineer & Researcher** @ **Doktor365**                    
+| **Co-Founder & Data Scientist** @ **Klaimz**                 
+| **Freelance Data Scientist** (Independent Consultant)         
+| **Data Scientist** @ **Autodesk Inc**                 
+| **Computer Vision Intern** @ **MetabrixLabs**                 
+| **AI Research Intern** @ **IIT Kharagpur**                   
+| **Course Creator** @ **CloudyML**                            
+---------------------------------------------------------------
 
 ## 🔗 Connect with Me
 - 🌐 Portfolio: [Portfolio](https://portfoliowebsiteraj.vercel.app/)  
