@@ -92,7 +92,7 @@ I’m an **AI Researcher and Engineer** with over 2 years of experience leading 
 ## 📞 Let’s Collaborate
 
 I’m open to **consulting**, **collaborations**, **speaking engagements**, or just an AI chat.  
-Feel free to reach out via email or connect on LinkedIn!
+Feel free to reach out via email or connect on my mail!
 
 > "Innovation thrives at the intersection of ideas. Let's build the future together!"
 
