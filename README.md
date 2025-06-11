@@ -27,9 +27,7 @@ I’m an **AI Researcher and Engineer** with over 2 years of experience leading 
 | **Co-Founder & Data Scientist** @ **Klaimz**                 
 | **Freelance Data Scientist** (Independent Consultant)         
 | **Data Scientist** @ **Autodesk Inc**                 
-| **Computer Vision Intern** @ **MetabrixLabs**                 
-| **AI Research Intern** @ **IIT Kharagpur**                   
-| **Course Creator** @ **CloudyML**                            
+| **Computer Vision** @ **MetabrixLabs**                                       
 ---------------------------------------------------------------
 
 ## 🔗 Connect with Me
