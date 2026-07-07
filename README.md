@@ -23,11 +23,12 @@ I’m an **AI Researcher and Engineer** with over 2 years of experience leading 
 
 | Role & Organization                                          
 |--------------------------------------------------------------
-| **AI Engineer & Researcher** @ **Doktor365**                    
-| **Co-Founder & Data Scientist** @ **Klaimz**                 
+| **Senior AI Engineer - FDE** -----> **Supernal AI**    
+| **AI Engineer & Researcher** -----> **Doktor365**                    
+| **Co-Founder & Data Scientist** -----> **Klaimz**                 
 | **Freelance Data Scientist** (Independent Consultant)         
-| **Data Scientist** @ **Autodesk Inc**                 
-| **Computer Vision** @ **MetabrixLabs**                                       
+| **Data Scientist** -----> **Autodesk Inc**                 
+| **Computer Vision** -----> **MetabrixLabs**                                       
 ---------------------------------------------------------------
 
 ## 🔗 Connect with Me
@@ -42,6 +43,13 @@ I’m an **AI Researcher and Engineer** with over 2 years of experience leading 
 
 ## 📂 Proof of Work
 
+
+### Supernal AI
+**Senior AI Engineer-FDE**   
+- We Empower Companies to Become AI Native.
+- Custom operating systems built around how your business actually runs.
+
+  
 ### Doktor365
 **AI Engineer & Researcher**   
 - Building multi-agent AI systems for healthcare operations in the Middle East.  
