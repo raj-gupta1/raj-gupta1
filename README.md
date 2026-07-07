@@ -3,9 +3,9 @@
 
 ---
 
-## 🎯 What I am working on (2025)
+## 🎯 What I am working on (2026)
 
-- 🤖 LLM Reasoning & Logic  
+- 🤖 Empowering Companies to Become AI Native
 - 🧠 Agentic AI & Autonomous Systems  
 
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I’m an **AI Researcher and Engineer** with over 2 years of experience leading end-to-end AI for startups from ideation to deployement and build projects from architecture design. Currently, I’m building & researching AI agents for a healthcare startup in the Middle East. Passionate about translating complex algorithms into impactful products.
+I’m an **AI Researcher and Engineer** with over 3 years of experience leading end-to-end AI for startups from ideation to deployement and build projects from architecture design. Currently, I’m working as Senior AI Engineer (Forward Deployed Engineer) building & researching AI agents and Applied AI applications. Passionate about translating complex algorithms into impactful products.
 
 ---
 
