@@ -35,7 +35,6 @@ I’m an **AI Researcher and Engineer** with over 3 years of experience leading 
 - 🌐 Portfolio: [Portfolio](https://portfoliowebsiteraj.vercel.app/)  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/raj-gupta-7073/)  
 - 📝 Blog: [Medium](https://medium.com/@raj_shinigami)  
-- 🐦 X: [X](https://x.com/the_perceptron)
 - 🎮 Kaggle: [Kaggle](https://www.kaggle.com/rajgupta2019)  
 - 📬 Email: [Mail](mailto:rajmanmauji@gmail.com)  
 
