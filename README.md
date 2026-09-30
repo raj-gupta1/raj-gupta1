@@ -27,8 +27,7 @@ I’m an **AI Researcher and Engineer** with over 3 years of experience leading 
 | **AI Engineer & Researcher** -----> **Doktor365**                    
 | **Co-Founder & Data Scientist** -----> **Klaimz**                 
 | **Freelance Data Scientist** (Independent Consultant)         
-| **Data Scientist** -----> **Autodesk Inc**                 
-| **Computer Vision** -----> **MetabrixLabs**                                       
+| **Data Scientist** -----> **Autodesk Inc**                                                     
 ---------------------------------------------------------------
 
 ## 🔗 Connect with Me
@@ -69,17 +68,6 @@ I’m an **AI Researcher and Engineer** with over 3 years of experience leading 
 - Built recommendation engines with AWS Personalize & SageMaker, improving connection suggestions by 40%.  
 - Developed time‑series forecasting to optimize workspace utilization across global offices.
 
-### MetabrixLabs
-**Computer Vision Intern**  
-- Researched & implemented 3D/4D avatar generation using neural head avatars and diffusion-based texture mapping.
-
-### IIT Kharagpur
-**AI Research Intern**  
-- Published research on epidemic detection using Twitter data with BiLSTM & BERT, enhancing detection speed and accuracy.
-
-### CloudyML
-**Course Creator**  
-- Designed & launched Computer Vision and Machine Learning courses, empowering hundreds of learners worldwide.
 
 ---
 
