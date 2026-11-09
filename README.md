@@ -64,11 +64,6 @@
 - Integrated multi-agent state machines with WhatsApp Business APIs and enterprise CRMs using asynchronous FastAPI runtimes and dynamic tool calling.
 - Enforced strict medical compliance guardrails and deterministic algorithms to minimize non-deterministic LLM variance in safety-critical clinical triage.
 
-### **Klaimz** — *Co-Founder & Data Scientist*
-- Selected as **1 of 20 startups across India** incubated at **IIM Bengaluru NSRCEL** under the Campus Founder Program.
-- Managed a cross-functional team of **6 engineers and designers**, architecting the end-to-end web/mobile platform for insurance claims automation.
-- Built query-parsing pipelines and automated claim analytics models, leading early customer discovery and technical execution.
-
 ---
 
 ## 🚀 Benchmark Implementations & Flagship Builds
