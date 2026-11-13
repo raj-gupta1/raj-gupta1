@@ -46,9 +46,9 @@
 
 ---
 
-## 💼 High-Impact Production Experience
+## 💼 Current Role
 
-### **Supernal AI** — *Senior AI Forward Deployed Engineer (FDE)*
+### **Supernal AI** — *Senior AI Forward Deployed Engineer*
 *Present*
 - Deployed full-lifecycle enterprise AI operating systems across energy, real estate, and digital media, leading client engagements with an **average contract value of $175,000**.
 - Split engineering throughput across **60% production-grade coding** (model serving, latency optimization, eval pipelines) and **40% technical systems architecture** directly with founding teams and CXOs.
